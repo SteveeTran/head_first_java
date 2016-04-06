@@ -1,4 +1,4 @@
-class hf_045_0 {
+class hf_045_1 {
 
   public static void main(String [] args) {
 
